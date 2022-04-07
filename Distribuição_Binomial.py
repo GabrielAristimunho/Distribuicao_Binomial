@@ -1,5 +1,5 @@
 # by Gabriel Aristimunho UFMS 06/04/2022
-# desconsiderem meu erros de portugues, to fazendo Biologia, não Letras
+# desconsiderem meus erros de portugues, to fazendo Biologia, não Letras
 
 import time
 import os
