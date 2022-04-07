@@ -1,5 +1,4 @@
-# by Gabriel Aristimunho
-# UFMS 06/04/2022
+# by Gabriel Aristimunho UFMS 06/04/2022
 # desconsiderem meu erros de portugues, to fazendo Biologia, não Letras
 
 import time
@@ -62,7 +61,6 @@ def inicio():
 
             N_fatorial = N
             print("{}! é igual a: ".format(N), factorial(N_fatorial))
-
             K_fatorial = K
             print("{}! é igual a: ".format(K), factorial(K_fatorial))
 
@@ -107,7 +105,4 @@ def inicio():
                 print("Cuidado na hora de digitar, tenta de novo")
             elif n == 5:
                 print("Tenta digitar com calma, vc colocou algo errado")
-
 inicio()
-#feito com Python 3.8
-# pyinstaller --onefile .\PycharmProjects\Base004\Estudos\Distribuição_Binomial.py
